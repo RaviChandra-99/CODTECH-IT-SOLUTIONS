@@ -25,10 +25,15 @@ Features Implemented: -
 2) Adding Rounds As User's Wish - Users can Choose the Number Of Rounds they wish To Play At The Beginning Of the Game
 3) Displaying Score For Each Round - After Every Round Score Will Be Displayed
 4) Giving Points Based On Number Of Attempts -
+
      1st Attempt - 100 points
+   
      2nd Attempt - 80  points
+   
      3rd Attempt - 60  points
+   
      4th Attempt - 40  points
+   
      5th Attempts- 20  points
 
 
